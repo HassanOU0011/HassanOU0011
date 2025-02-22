@@ -1,7 +1,8 @@
-
+##  Hi there 👋
+### 🌱 I’m currently learning ...
 <!--
 **HassanOU0011/HassanOU0011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-## Hi there 👋
+
 
 Here are some ideas to get you started:
 
@@ -14,6 +15,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-<button>Hi There</button>
